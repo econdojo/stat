@@ -16,7 +16,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 * [Getting Started with AI Agents](https://github.com/econdojo/papers/blob/main/pdf/agent.pdf)
 * [Lecture 0: Basic Concepts of Probability and Inference](/pdf/lec0.pdf)
-* [Lecture 1: Posterior Distributions and Inference](/pdf/Bayeslec1.pdf)
+* [Lecture 1: Posterior Distributions and Inference](/pdf/lec1.pdf)
 * [Lecture 2: Prior Distributions](/pdf/Bayeslec2.pdf)
 * [Lecture 3: Classical Simulation](/pdf/Bayeslec3.pdf)
 * [Lecture 4: Basics of Markov Chains](/pdf/Bayeslec4.pdf)
